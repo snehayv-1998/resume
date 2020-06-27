@@ -1,0 +1,33 @@
+/**************************element selector*********************************/
+body{
+  background-color: #cff6cf;
+}
+img{
+  width:50px;
+  height: 50px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #900c3f;
+  border-width: 5px;
+  width: 5%;
+}
+h2{
+  color: #900c3f;
+}
+/***************************class selector******************************/
+.contact{
+  margin-left: 38%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+
+}
+
+
+/**************************id selector*********************************/
+#sneha{
+  width: 150px;
+  height: 150px;
+
+}
