@@ -1,1 +1,1 @@
-# cv : https://snehayv-1998.github.io/cv/
+# cv : https://snehayv-1998.github.io/resume/
